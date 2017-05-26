@@ -14,10 +14,14 @@ A number of technologies we use internally and starting points to learn them.
     * [URL dispatcher](https://docs.djangoproject.com/en/dev/topics/http/urls/)
     * [Class-based views](https://docs.djangoproject.com/en/dev/topics/class-based-views/intro/)
     * [Tests](https://docs.djangoproject.com/en/dev/topics/testing/)
-    
-    
-    
+  + [Django Book](http://djangobook.com/the-django-book/) is another good tutorial to work through
     
 ## Videos
 
 * [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
+
+# Learning Plan
+
++ The [Django Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
++ [Python Object Oriented Programming](https://github.com/ismartSa/eBook-1/blob/master/Python%203%20Object-oriented%20Programming%20(Second%20Edition)%202015/Python%203%20Object-oriented%20Programming%20-%20Second%20Edition%20%5BeBook%5D.epub
++ [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
