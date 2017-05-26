@@ -5,6 +5,7 @@ A number of technologies we use internally and starting points to learn them.
 
 - Python
   + The [Python Essential Reference](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786) book  contains a very good and concise introduction to the language
+  + [Python Object Oriented Programming](https://github.com/ismartSa/eBook-1/blob/master/Python%203%20Object-oriented%20Programming%20(Second%20Edition)%202015/Python%203%20Object-oriented%20Programming%20-%20Second%20Edition%20%5BeBook%5D.epub
   
 - Django 
   + [Django Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) is the best starting point
