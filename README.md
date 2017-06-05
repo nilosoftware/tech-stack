@@ -15,7 +15,11 @@ A number of technologies we use internally and starting points to learn them.
     * [Class-based views](https://docs.djangoproject.com/en/dev/topics/class-based-views/intro/)
     * [Tests](https://docs.djangoproject.com/en/dev/topics/testing/)
   + [Django Book](http://djangobook.com/the-django-book/) is another good tutorial to work through
-    
+  + [Django Query Cheat Sheet](https://github.com/chrisdl/Django-QuerySet-Cheatsheet)
+
+- Git
+  + [Git Cheat Sheet](https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf)
+  
 ## Videos
 
 * [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
