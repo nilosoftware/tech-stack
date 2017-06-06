@@ -9,6 +9,7 @@ A number of technologies we use internally and starting points to learn them.
   
 - Django 
   + [Django Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) is the best starting point
+  + [Test Driven Development](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
   + Django has very good and through documentation. You don't need to read all of it initially. A few useful parts to look at:
     * [Models](https://docs.djangoproject.com/en/dev/topics/db/models/)
     * [URL dispatcher](https://docs.djangoproject.com/en/dev/topics/http/urls/)
@@ -19,6 +20,7 @@ A number of technologies we use internally and starting points to learn them.
 
 - Git
   + [Git Cheat Sheet](https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf)
+  + [Git Tutorial](http://learngitbranching.js.org/)
   
 ## Videos
 
