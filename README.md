@@ -22,6 +22,9 @@ A number of technologies we use internally and starting points to learn them.
   + [Git Cheat Sheet](https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf)
   + [Git Tutorial](http://learngitbranching.js.org/)
   
+- Bash
+  + [Bash Shell Customization with Bash-It](https://github.com/Bash-it/bash-it/)
+  
 ## Videos
 
 * [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
