@@ -31,3 +31,4 @@ A number of technologies we use internally and starting points to learn them.
 + The [Django Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
 + [Python Object Oriented Programming](https://github.com/ismartSa/eBook-1/blob/master/Python%203%20Object-oriented%20Programming%20(Second%20Edition)%202015/Python%203%20Object-oriented%20Programming%20-%20Second%20Edition%20%5BeBook%5D.epub
 + [Must Watch Django Videos](https://gitlab.com/rosarior/django-must-watch) - Must-watch videos about Django (or about Python as applied to Django)
++ [Git Tutorial](http://learngitbranching.js.org/) - Work through the git tutorials to get a solid understanding on how to use git.
